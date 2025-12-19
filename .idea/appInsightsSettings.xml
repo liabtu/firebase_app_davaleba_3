@@ -9,10 +9,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.recyclerfirebaseapp" />
+                  <option name="mobileSdkAppId" value="1:39486768342:android:4b130e0edafd9cc7023577" />
+                  <option name="projectId" value="fir-recyclerapp-fe584" />
+                  <option name="projectNumber" value="39486768342" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
